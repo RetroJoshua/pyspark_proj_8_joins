@@ -35,3 +35,10 @@ This project is to perform `inner`, all outer joins and semi joins.
     contained in the resulting DataFrame. If you have 1,000 rows in each DataFrame, the cross-join of
     these will result in 1,000,000 (1,000 x 1,000) rows. For this reason, you must very explicitly state
     that you want a cross-join by using the cross join keyword.
+
+## `Data` Folder:
+- Contains flight data `2015-summary.csv`, `2014-summary.json` and `2013-summary.csv`. 
+
+
+## `main.py`:
+- has to implement.
